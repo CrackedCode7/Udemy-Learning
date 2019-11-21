@@ -1,0 +1,8 @@
+Conditional: Executes conditionally, checks a statement then runs the 
+body of the code using if, if else, or if elif else.
+
+Looping: Allows us to do things multiple times using while loops and
+for loops.
+
+Transfer: Transfer control of our program from one place to 
+another using break, continue, pass, and return

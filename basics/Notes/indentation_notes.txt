@@ -1,0 +1,3 @@
+In python, you have to maintain indentation to ensure the code executes properly.
+
+Four spaces is standard practice, and must be used when executinf for loops, while loops, etc.

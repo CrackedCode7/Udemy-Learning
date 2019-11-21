@@ -1,0 +1,7 @@
+if <Conditions>: (Evaluates to boolean true or false)
+statements (if true)
+
+if else has an "else:" block that will work depending on T/F
+
+In an if, elif, else ladder, if one of the statements evaluates to
+True, it will not check the subsequent statements.

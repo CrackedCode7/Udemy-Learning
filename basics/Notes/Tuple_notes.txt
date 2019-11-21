@@ -1,0 +1,4 @@
+A tuple is just like a list, but cannot be modified.
+
+Therefore, you cannot use things like append, extend, insert,
+remove, and clear.

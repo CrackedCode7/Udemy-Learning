@@ -1,0 +1,9 @@
+Operate against boolean expressions or variables.
+AND, OR, NOT
+
+X and Y = True only if X AND Y are true.
+X or Y = True if either X OR Y are true.
+not X changes expression to opposite.
+
+X and Y can be boolean literals (True or False) or 
+can be an expression like X=a>b

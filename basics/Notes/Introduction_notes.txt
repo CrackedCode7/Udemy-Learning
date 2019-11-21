@@ -1,0 +1,11 @@
+a=10 defines an integer type
+f=10.23 defines a floating point type
+s="You are the creator of your destiny" defines a string type
+
+There are five main data types in python:
+
+1. None: an object that does not contain any value
+2. Numeric types: int, float, complex
+3. Sequences: str, bytes, bytearray, list, tuple, range (holds onto a sequence of data types)
+4. Sets: do not allow duplicates
+5. Mappings: Map and reduce

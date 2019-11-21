@@ -1,0 +1,4 @@
+Lists can store any number of values or objects dynamically and maintain the order.
+Sets can do the same, but do not allow duplicates.
+Have a lot of methods of removing and adding elements.
+Dictionary is a map that can store key and value pari information.

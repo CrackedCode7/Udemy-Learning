@@ -1,0 +1,5 @@
+= i.e. a=10 a=x+y
+assigns the value on the right hand side to the variable on the left
+
++= i.e. a+=b is the same as a=a+b
+compound assignment. Can be used with any of the arithmetic operators
